@@ -1,0 +1,20 @@
+{
+  "name": "wp-builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wp-build.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@kard/node-logger": "0.1.0-rc.2",
+    "chalk": "^4.1.0",
+    "cross-spawn": "^7.0.3"
+  }
+}
