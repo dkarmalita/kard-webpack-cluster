@@ -1,17 +1,31 @@
 {
   "name": "@kard/webpack-cluster",
-  "version": "1.0.0",
+  "version": "0.1.0-rc.1",
   "description": "",
-  "main": "wp-build.js",
+  "main": "main.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
+    "publish-next": "publish-next",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "webpack",
+    "cluster",
+    "builder",
+    "node"
+  ],
+  "author": "Dmitry Karmalita",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkarmalita/kard-webpack-cluster.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dkarmalita/kard-webpack-cluster/issues"
+  },
+  "homepage": "https://github.com/dkarmalita/kard-webpack-cluster#readme",
   "dependencies": {
     "@kard/node-logger": "0.1.0-rc.4",
     "chalk": "^4.1.0",
