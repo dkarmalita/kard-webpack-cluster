@@ -1,3 +1,5 @@
+# webpack-cluster
+
 ## Usage pattern
 
 ```js
