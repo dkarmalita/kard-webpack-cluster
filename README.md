@@ -1,4 +1,4 @@
-# webpack-cluster
+# wp-cluster
 
 ## Usage pattern
 
