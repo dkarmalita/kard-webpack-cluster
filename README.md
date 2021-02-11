@@ -1,4 +1,11 @@
-# wp-cluster
+# webpack-cluster
+
+## How to add to a project
+
+```sh
+npm i -S @kard/webpack-cluster
+npx install-peerdeps --dev @kard/webpack-cluster
+```
 
 ## Usage pattern
 
