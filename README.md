@@ -4,7 +4,7 @@
 
 ```sh
 npm i -S @kard/webpack-cluster
-npx install-peerdeps --dev @kard/webpack-cluster
+npx install-peerdeps --dev @kard/webpack-cluster
 ```
 
 ## Usage pattern
